@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test Automation University Suite",
+    "children" : [ {
+      "name" : "LoginParameters Test",
+      "children" : [ {
+        "name" : "login.LoginTests",
+        "children" : [ {
+          "name" : "testSuccessfulLogin3Parameters",
+          "uid" : "c6692864180dc6d3",
+          "parentUid" : "e2bb6ca35bcb5f697581089cbc9ab014",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1593892501907,
+            "stop" : 1593892501908,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "FireFox", "SuperSecretPassword!", "tomsmith" ]
+        }, {
+          "name" : "testSuccessfulLogin3Parameters",
+          "uid" : "79aebea18041ed81",
+          "parentUid" : "e2bb6ca35bcb5f697581089cbc9ab014",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593892608025,
+            "stop" : 1593892609229,
+            "duration" : 1204
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+        } ],
+        "uid" : "e2bb6ca35bcb5f697581089cbc9ab014"
+      } ],
+      "uid" : "050ad1f8cb7e15db721338bb386fed91"
+    }, {
+      "name" : "Navigation Test",
+      "children" : [ {
+        "name" : "navigation.NavigationTests",
+        "children" : [ {
+          "name" : "testSwitchTab",
+          "uid" : "b10ad920f80b6c30",
+          "parentUid" : "a3ea4872ad05bf74c14107d283740468",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593892594539,
+            "stop" : 1593892595465,
+            "duration" : 926
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "FireFox" ]
+        } ],
+        "uid" : "a3ea4872ad05bf74c14107d283740468"
+      } ],
+      "uid" : "3eab6d543fd63f014e1c47d68f447e68"
+    } ],
+    "uid" : "94458387a2154647bde0329e61794431"
+  } ]
+}

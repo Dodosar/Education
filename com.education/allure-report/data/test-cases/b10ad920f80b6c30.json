@@ -1,0 +1,155 @@
+{
+  "uid" : "b10ad920f80b6c30",
+  "name" : "testSwitchTab",
+  "fullName" : "navigation.NavigationTests.testSwitchTab",
+  "historyId" : "4fc69098bbdcaac74936efde3664c452",
+  "time" : {
+    "start" : 1593892594539,
+    "stop" : 1593892595465,
+    "duration" : 926
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1593892586049,
+      "stop" : 1593892594414,
+      "duration" : 8365
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1593892595593,
+      "stop" : 1593892599546,
+      "duration" : 3953
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "navigation.NavigationTests"
+  }, {
+    "name" : "testClass",
+    "value" : "navigation.NavigationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSwitchTab"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test Automation University Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "navigation.NavigationTests"
+  }, {
+    "name" : "host",
+    "value" : "TYUDM"
+  }, {
+    "name" : "thread",
+    "value" : "14372@TYUDM.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browserType",
+    "value" : "FireFox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87a7ea802807e849",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593892548569,
+        "stop" : 1593892549198,
+        "duration" : 629
+      }
+    }, {
+      "uid" : "916eb396c43c3e60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593892421322,
+        "stop" : 1593892422413,
+        "duration" : 1091
+      }
+    }, {
+      "uid" : "d2f6986c5e41c386",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593892306844,
+        "stop" : 1593892307551,
+        "duration" : 707
+      }
+    }, {
+      "uid" : "b2437af9293cea51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593890293798,
+        "stop" : 1593890294749,
+        "duration" : 951
+      }
+    }, {
+      "uid" : "bd66a3a24e387d3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593890249541,
+        "stop" : 1593890250178,
+        "duration" : 637
+      }
+    }, {
+      "uid" : "bf2e03ac52e3c3da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593889546917,
+        "stop" : 1593889547647,
+        "duration" : 730
+      }
+    }, {
+      "uid" : "c10285d4b354dcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593889503556,
+        "stop" : 1593889504850,
+        "duration" : 1294
+      }
+    }, {
+      "uid" : "9551569120c7f3d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593889324442,
+        "stop" : 1593889325211,
+        "duration" : 769
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b10ad920f80b6c30.json",
+  "parameterValues" : [ "FireFox" ]
+}

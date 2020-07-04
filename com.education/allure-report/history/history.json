@@ -1,0 +1,60 @@
+{
+  "8861c29ee8edc4aee23d38c41203cf34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79aebea18041ed81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593892608025,
+        "stop" : 1593892609229,
+        "duration" : 1204
+      }
+    } ]
+  },
+  "4fc69098bbdcaac74936efde3664c452" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b10ad920f80b6c30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593892594539,
+        "stop" : 1593892595465,
+        "duration" : 926
+      }
+    } ]
+  },
+  "2ee063efb5e63f81f5019ad8a4cdae51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6692864180dc6d3",
+      "status" : "skipped",
+      "statusDetails" : "Failed to decode response from marionette\nBuild info: version: '4.0.0-alpha-3', revision: '8c567de6dc'\nSystem info: host: 'TYUDM', ip: '192.168.1.154', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.5'\nDriver info: driver.version: FirefoxDriver\nremote stacktrace: ",
+      "time" : {
+        "start" : 1593892501907,
+        "stop" : 1593892501908,
+        "duration" : 1
+      }
+    } ]
+  }
+}

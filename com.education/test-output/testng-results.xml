@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-04T20:07:02Z" name="Test Automation University Suite" finished-at="2020-07-04T20:07:31Z" duration-ms="28350">
+    <groups>
+      <group name="checkintest">
+        <method signature="NavigationTests.testSwitchTab()[pri:0, instance:navigation.NavigationTests@7f92b990]" name="testSwitchTab" class="navigation.NavigationTests"/>
+      </group> <!-- checkintest -->
+      <group name="functest">
+        <method signature="NavigationTests.testSwitchTab()[pri:0, instance:navigation.NavigationTests@7f92b990]" name="testSwitchTab" class="navigation.NavigationTests"/>
+      </group> <!-- functest -->
+    </groups>
+    <test started-at="2020-07-04T20:07:02Z" name="Navigation Test" finished-at="2020-07-04T20:07:17Z" duration-ms="14990">
+      <class name="navigation.NavigationTests">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:navigation.NavigationTests@7f92b990]" started-at="2020-07-04T23:07:02Z" name="setUp" finished-at="2020-07-04T23:07:12Z" duration-ms="9865" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSwitchTab()[pri:0, instance:navigation.NavigationTests@7f92b990]" started-at="2020-07-04T23:07:12Z" name="testSwitchTab" finished-at="2020-07-04T23:07:13Z" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwitchTab -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:navigation.NavigationTests@7f92b990]" started-at="2020-07-04T23:07:13Z" name="tearDown" finished-at="2020-07-04T23:07:17Z" duration-ms="4278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- navigation.NavigationTests -->
+    </test> <!-- Navigation Test -->
+    <test started-at="2020-07-04T20:07:17Z" name="LoginParameters Test" finished-at="2020-07-04T20:07:31Z" duration-ms="13292">
+      <class name="login.LoginTests">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:login.LoginTests@69fa8e76]" started-at="2020-07-04T23:07:18Z" name="setUp" finished-at="2020-07-04T23:07:25Z" duration-ms="7449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:login.LoginTests@69fa8e76]" started-at="2020-07-04T23:07:25Z" name="goHome" finished-at="2020-07-04T23:07:25Z" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testSuccessfulLogin3Parameters(java.lang.String, java.lang.String)[pri:0, instance:login.LoginTests@69fa8e76]" started-at="2020-07-04T23:07:25Z" name="testSuccessfulLogin3Parameters" finished-at="2020-07-04T23:07:27Z" duration-ms="1277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccessfulLogin3Parameters -->
+        <test-method is-config="true" signature="recordFailure(org.testng.ITestResult)[pri:0, instance:login.LoginTests@69fa8e76]" started-at="2020-07-04T23:07:27Z" name="recordFailure" finished-at="2020-07-04T23:07:27Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSuccessfulLogin3Parameters status=SUCCESS method=LoginTests.testSuccessfulLogin3Parameters(java.lang.String, java.lang.String)[pri:0, instance:login.LoginTests@69fa8e76] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recordFailure -->
+        <test-method is-config="true" signature="takeScreenshot()[pri:0, instance:login.LoginTests@69fa8e76]" started-at="2020-07-04T23:07:27Z" name="takeScreenshot" finished-at="2020-07-04T23:07:27Z" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:login.LoginTests@69fa8e76]" started-at="2020-07-04T23:07:27Z" name="tearDown" finished-at="2020-07-04T23:07:31Z" duration-ms="4072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- login.LoginTests -->
+    </test> <!-- LoginParameters Test -->
+  </suite> <!-- Test Automation University Suite -->
+</testng-results>

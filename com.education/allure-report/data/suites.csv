@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 04 22:56:48 EEST 2020","Sat Jul 04 22:56:49 EEST 2020","1204","Test Automation University Suite","LoginParameters Test","login.LoginTests","login.LoginTests","testSuccessfulLogin3Parameters","testSuccessfulLogin3Parameters",""
+"skipped","Sat Jul 04 22:55:01 EEST 2020","Sat Jul 04 22:55:01 EEST 2020","1","Test Automation University Suite","LoginParameters Test","login.LoginTests","login.LoginTests","testSuccessfulLogin3Parameters","testSuccessfulLogin3Parameters",""
+"passed","Sat Jul 04 22:56:34 EEST 2020","Sat Jul 04 22:56:35 EEST 2020","926","Test Automation University Suite","Navigation Test","navigation.NavigationTests","navigation.NavigationTests","testSwitchTab","testSwitchTab",""

@@ -124,7 +124,7 @@ public class BaseTests {
 		screenshotName = d.toString().replace(":", "_").replace(" ", "_") + ".jpg";
 		
 		try {
-			FileUtils.copyFile(scrFile, new File(System.getProperty("user.dir") + "test\\resources\\screenshots\\" + screenshotName));
+			FileUtils.copyFile(scrFile, new File(System.getProperty("user.dir") + "\\src\\test\\resources\\screenshots\\" + screenshotName));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

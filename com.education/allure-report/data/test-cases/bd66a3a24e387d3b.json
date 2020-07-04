@@ -1,0 +1,89 @@
+{
+  "uid" : "bd66a3a24e387d3b",
+  "name" : "testSwitchTab",
+  "fullName" : "navigation.NavigationTests.testSwitchTab",
+  "historyId" : "4fc69098bbdcaac74936efde3664c452",
+  "time" : {
+    "start" : 1593890249541,
+    "stop" : 1593890250178,
+    "duration" : 637
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1593890241403,
+      "stop" : 1593890249469,
+      "duration" : 8066
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1593890250339,
+      "stop" : 1593890254671,
+      "duration" : 4332
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "navigation.NavigationTests"
+  }, {
+    "name" : "testClass",
+    "value" : "navigation.NavigationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSwitchTab"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test Automation University Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "navigation.NavigationTests"
+  }, {
+    "name" : "host",
+    "value" : "TYUDM"
+  }, {
+    "name" : "thread",
+    "value" : "11716@TYUDM.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browserType",
+    "value" : "FireFox"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd66a3a24e387d3b.json",
+  "parameterValues" : [ "FireFox" ]
+}

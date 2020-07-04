@@ -264,7 +264,7 @@
 	<organization>
 		<name>DimaTiurin</name>
 	</organization>
-
+<!--Read Evernore Allure  -->
 	<reporting>
 		<excludeDefaults>true</excludeDefaults>
 		<plugins>
@@ -275,7 +275,7 @@
 				<configuration>
 					<properties>
 						<allure.issues.tracker.pattern>http://example.com/%s</allure.issues.tracker.pattern>
-						<propertiesFilePath>C:/Users/tyudm/allure-testng-example/src/test/resources/allure.properties</propertiesFilePath>
+						<propertiesFilePath>C:/Users/Dima/allure-testng-example/src/test/resources/allure.properties</propertiesFilePath>
 						<reportDirectory>allure-report</reportDirectory>
 					</properties>
 				</configuration>

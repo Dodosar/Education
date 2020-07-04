@@ -1,0 +1,279 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TYUDM",
+    "children" : [ {
+      "name" : "11004@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSwitchTab",
+        "uid" : "b2437af9293cea51",
+        "parentUid" : "106fab67f3bf2efe51d91d757f13f09e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593890293798,
+          "stop" : 1593890294749,
+          "duration" : 951
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      }, {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "bf6e3e390c27ebf0",
+        "parentUid" : "106fab67f3bf2efe51d91d757f13f09e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593890309047,
+          "stop" : 1593890310647,
+          "duration" : 1600
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      } ],
+      "uid" : "106fab67f3bf2efe51d91d757f13f09e"
+    }, {
+      "name" : "8096@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSwitchTab",
+        "uid" : "87a7ea802807e849",
+        "parentUid" : "b32f1b721c3874e0ee35c6ad0a2de219",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892548569,
+          "stop" : 1593892549198,
+          "duration" : 629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      }, {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "d2f3f99a7eb7c98",
+        "parentUid" : "b32f1b721c3874e0ee35c6ad0a2de219",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892560559,
+          "stop" : 1593892561692,
+          "duration" : 1133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      } ],
+      "uid" : "b32f1b721c3874e0ee35c6ad0a2de219"
+    }, {
+      "name" : "11716@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSwitchTab",
+        "uid" : "bd66a3a24e387d3b",
+        "parentUid" : "143769c5a1ea2f327a8a07b70483d7b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593890249541,
+          "stop" : 1593890250178,
+          "duration" : 637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      }, {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "15e709b11586b48d",
+        "parentUid" : "143769c5a1ea2f327a8a07b70483d7b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593890262780,
+          "stop" : 1593890263954,
+          "duration" : 1174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      } ],
+      "uid" : "143769c5a1ea2f327a8a07b70483d7b9"
+    }, {
+      "name" : "10588@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "a4c49c382c5ce8e6",
+        "parentUid" : "91b773ee77e1b29fb81a5533fa59d3bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593889517887,
+          "stop" : 1593889519059,
+          "duration" : 1172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      }, {
+        "name" : "testSwitchTab",
+        "uid" : "c10285d4b354dcd",
+        "parentUid" : "91b773ee77e1b29fb81a5533fa59d3bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593889503556,
+          "stop" : 1593889504850,
+          "duration" : 1294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      } ],
+      "uid" : "91b773ee77e1b29fb81a5533fa59d3bf"
+    }, {
+      "name" : "14940@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "2937714f59ce6427",
+        "parentUid" : "4dab0aa9e730e92bb92354efc7099d41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593889559789,
+          "stop" : 1593889561232,
+          "duration" : 1443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      }, {
+        "name" : "testSwitchTab",
+        "uid" : "bf2e03ac52e3c3da",
+        "parentUid" : "4dab0aa9e730e92bb92354efc7099d41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593889546917,
+          "stop" : 1593889547647,
+          "duration" : 730
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      } ],
+      "uid" : "4dab0aa9e730e92bb92354efc7099d41"
+    }, {
+      "name" : "12940@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "f959f84fa5590070",
+        "parentUid" : "cdc96c3ace36e66d890f893a08a4895b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892320459,
+          "stop" : 1593892321696,
+          "duration" : 1237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      }, {
+        "name" : "testSwitchTab",
+        "uid" : "d2f6986c5e41c386",
+        "parentUid" : "cdc96c3ace36e66d890f893a08a4895b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892306844,
+          "stop" : 1593892307551,
+          "duration" : 707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      } ],
+      "uid" : "cdc96c3ace36e66d890f893a08a4895b"
+    }, {
+      "name" : "9604@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSwitchTab",
+        "uid" : "916eb396c43c3e60",
+        "parentUid" : "7e05d9d8ed8c3c710e8ce96d0dfb853a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892421322,
+          "stop" : 1593892422413,
+          "duration" : 1091
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      }, {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "c6692864180dc6d3",
+        "parentUid" : "7e05d9d8ed8c3c710e8ce96d0dfb853a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1593892501907,
+          "stop" : 1593892501908,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      } ],
+      "uid" : "7e05d9d8ed8c3c710e8ce96d0dfb853a"
+    }, {
+      "name" : "12364@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSwitchTab",
+        "uid" : "9551569120c7f3d8",
+        "parentUid" : "e6ffd5e228118e1fe4badab616589173",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593889324442,
+          "stop" : 1593889325211,
+          "duration" : 769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      }, {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "a4f7e7b0792f0a3a",
+        "parentUid" : "e6ffd5e228118e1fe4badab616589173",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593889338306,
+          "stop" : 1593889339697,
+          "duration" : 1391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      } ],
+      "uid" : "e6ffd5e228118e1fe4badab616589173"
+    }, {
+      "name" : "14372@TYUDM.main(1)",
+      "children" : [ {
+        "name" : "testSuccessfulLogin3Parameters",
+        "uid" : "79aebea18041ed81",
+        "parentUid" : "77cfbb239625b6460b968ac0a39ac4dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892608025,
+          "stop" : 1593892609229,
+          "duration" : 1204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "tomsmith", "SuperSecretPassword!", "FireFox", "SuperSecretPassword!", "tomsmith" ]
+      }, {
+        "name" : "testSwitchTab",
+        "uid" : "b10ad920f80b6c30",
+        "parentUid" : "77cfbb239625b6460b968ac0a39ac4dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593892594539,
+          "stop" : 1593892595465,
+          "duration" : 926
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FireFox" ]
+      } ],
+      "uid" : "77cfbb239625b6460b968ac0a39ac4dc"
+    } ],
+    "uid" : "4be8f16a8bee722f615377d184622f3a"
+  } ]
+}
